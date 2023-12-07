@@ -1,0 +1,25 @@
+{
+    "name": "Accumulation Table",
+    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+    "organization": "ZZ2",
+    "organizationUrl": "https://url",
+    "termsOfServiceUrl": "https://url",
+    "supportUrl": "https://url",
+    "packageUrl": "https://url",
+    "privacyPolicyUrl": "https://url",
+    "description": "Shows the metric of the table as a accumulated sum based on the rows before.",
+    "devMode": true,
+    "components": [
+        {
+            "id": "tableChart",
+            "name": "Accumulation Table",
+            "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+            "description": "Shows the metric of the table as a accumulated sum based on the rows before.",
+            "resource": {
+                "js": "yourbuckethere",
+                "config": "yourbuckethere",
+                "css": "yourbuckethere"
+            }
+        }
+    ]
+}
